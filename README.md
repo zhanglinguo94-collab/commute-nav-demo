@@ -2,9 +2,9 @@
 
 > 基于地图实时信息、路线收益与用户偏好的主动导航服务 Demo
 
-**🌐 Live Demo：** [部署后填写 Vercel 地址](#)  
-**📦 GitHub：** [https://github.com/zhanglingluo94-collab/commute-nav-demo](https://github.com/zhanglingluo94-collab/commute-nav-demo) 
-**项目类型：** 地图业务 / 主动服务产品设计  
+**🌐 Live Demo：** [部署后填写 Vercel 地址](#)<br>
+**📦 GitHub：** [https://github.com/zhanglingluo94-collab/commute-nav-demo](https://github.com/zhanglingluo94-collab/commute-nav-demo)<br>
+**项目类型：** 地图业务 / 主动服务产品设计<br>
 **Demo 数据：** Mock 数据，不接入真实地图与实时交通 API
 
 ---
