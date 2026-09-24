@@ -291,15 +291,15 @@ npm run preview
 
 ---
 
-## 12. Vercel 部署
+## 12. Cloudflare Pages 部署
 
-将 GitHub 仓库导入 Vercel：
+将 GitHub 仓库连接至 Cloudflare Pages：
 
 - Framework Preset：Vite
 - Build Command：`npm run build`
-- Output Directory：`dist`
+- Build output directory：`dist`
 
-项目无真实地图 Key 和后端依赖，可直接部署。
+项目无真实地图 Key 和后端依赖，可直接完成静态部署。
 
 ---
 
